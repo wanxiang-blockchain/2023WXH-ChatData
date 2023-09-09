@@ -30,5 +30,7 @@ ChatData Insight is a tool to analyze blockchain data through chat, like chatGPT
 ### Technology Architecture
 ![](./docs/architecture.jpg)
 
+we use Amazon Managed Blockchain (AMB) Query as data source.
+
 ### Logo
 ![](./docs/logo.png)
